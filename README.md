@@ -1,7 +1,6 @@
 # AVRProjekt
-
 ### Aktualnie używane piny
-| Rodzaj | Pin Name (Code) | Port ATmega328P | Pin Arduino | Function |
+| Rodzaj | Pin (Kod) | Port ATmega328P | Pin Arduino | Function |
 | :--- | :--- | :--- | :--- | :--- |
 | **Ekran** | `PIN_SCK` | PB5 | D13 | Zegar SPI |
 | **Ekran** | `PIN_MOSI` | PB3 | D11 | SPI Data (SDA) |
