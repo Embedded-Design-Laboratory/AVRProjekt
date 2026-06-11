@@ -16,9 +16,12 @@ demo:
 
 demo2:
 	$(MAKE) burn_target NAME=demo2 SRC="demo2.c $(SRC_LIB)"
-	
+
 snake:
 	$(MAKE) burn_target NAME=snake SRC="snake.c $(SRC_LIB)"
+	
+tetris:
+	$(MAKE) burn_target NAME=tetris SRC="tetris.c $(SRC_LIB)"
 
 burn_target:
 	@echo "Building $(NAME)..."
