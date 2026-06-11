@@ -13,6 +13,9 @@ all:
 
 demo:
 	$(MAKE) burn_target NAME=demo SRC="demo.c $(SRC_LIB)"
+	
+demo2:
+	$(MAKE) burn_target NAME=demo2 SRC="demo2.c $(SRC_LIB)"
 
 burn_target:
 	@echo "Building $(NAME)..."
