@@ -41,6 +41,6 @@ Czysty `make` skompiluje `main.c`.
 | **Wejście** | `PIN_RIGHT`     | PD5             | D5          | Prawo             |
 | **Wejście** | `PIN_A`         | PD6             | D6          | Przycisk "A"      |
 | **Wejście** | `PIN_B`         | PD7             | D7          | Przycisk "B"      |
->Przyciski są pull-down, ze wspólną masą
+>Przyciski są pull-down, ze wspólną masą,
 >**Ekran** ma poziom logiczny 3V
 
