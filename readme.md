@@ -1,6 +1,7 @@
 # AVRProjekt
 ### Model Obudowy
 [![Model 3D](assets/obudowa.png)](https://sketchfab.com/3d-models/obudowa-2c08534e8cd44891bd327603aee7c3e8)
+Model 3D (podgląd na sketchfab)
 ### Aktualnie używane piny
 | Rodzaj | Pin Name (Code) | Port ATmega328P | Pin Arduino | Function |
 | :--- | :--- | :--- | :--- | :--- |
