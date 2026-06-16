@@ -5,12 +5,12 @@ Projekt przedstawia przenośną konsolę do gier opartą o mikrokontroler ATmega
 Urządzenie wyposażone jest w kolorowy wyświetlacz TFT LCD 1.8" oraz sześć przycisków sterujących.
 Oprogramowanie umożliwia uruchamianie gier kompilowanych jako osobne programy.
 
-### Użyte komponenty
+## Użyte komponenty
 * Mikrokontroler: **ATmega328P**
 * Wyświetlacz: **LCD TFT 1.8" SPI ST7735S**
 * Zasilanie: **ogniwo Li-Ion 18650**
 
-### Kompilacja gier
+## Kompilacja gier
 Do kompilacji wybranej gry użyj polecenia:
 ```bash
 make <nazwa_gry>
@@ -25,11 +25,11 @@ Czysty `make` skompiluje `main.c`.
 | Demo LCD  | `make demo`|
 | Demo Input| `make demo2`|
 
-### Model obudowy
+## Model obudowy
 [![Model 3D](assets/obudowa.png)](https://sketchfab.com/3d-models/obudowa-2c08534e8cd44891bd327603aee7c3e8)
 **Kliknij obraz, aby otworzyć interaktywny model 3D na Sketchfab.**
 
-### Aktualnie używane piny
+## Aktualnie używane piny
 | Rodzaj      | Pin (w kodzie)  | Port ATmega328P | Pin Arduino | Funkcja           |
 | :---------- | :-------------- | :-------------- | :---------- | :---------------- |
 | **Ekran**   | `PIN_SCK`       | PB5             | D13         | Zegar SPI         |
