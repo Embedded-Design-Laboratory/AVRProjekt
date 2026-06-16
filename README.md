@@ -22,6 +22,8 @@ make tetris
 make snake
 ```
 
+Czysty `make` skompiluje `main.c`.
+
 ### Model obudowy
 [![Model 3D](assets/obudowa.png)](https://sketchfab.com/3d-models/obudowa-2c08534e8cd44891bd327603aee7c3e8)
 **Kliknij obraz, aby otworzyć interaktywny model 3D na Sketchfab.**
