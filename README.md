@@ -17,11 +17,13 @@ make <nazwa_gry>
 ```
 Czysty `make` skompiluje `main.c`.
 
-### Gry
-| Gra | Kompilacja |
-|------|------------|
-| Snake | `make snake` |
-| Tetris | `make tetris` |
+### Gry i dema
+| Aplikacja | Kompilacja  |
+|-----------|-------------|
+| Snake     | `make snake` |
+| Tetris    | `make tetris` |
+| Demo LCD  | `make demo`|
+| Demo Input| `make demo2`|
 
 ### Model obudowy
 [![Model 3D](assets/obudowa.png)](https://sketchfab.com/3d-models/obudowa-2c08534e8cd44891bd327603aee7c3e8)
