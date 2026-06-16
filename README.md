@@ -1,6 +1,9 @@
 # AVRProjekt
+### Model Obudowy
+[![Model 3D](assets/obudowa.png)](https://sketchfab.com/3d-models/obudowa-2c08534e8cd44891bd327603aee7c3e8)
+Model 3D (kliknij aby otworzyć podgląd na sketchfab)
 ### Aktualnie używane piny
-| Rodzaj | Pin (Kod) | Port ATmega328P | Pin Arduino | Function |
+| Rodzaj | Pin Name (Code) | Port ATmega328P | Pin Arduino | Function |
 | :--- | :--- | :--- | :--- | :--- |
 | **Ekran** | `PIN_SCK` | PB5 | D13 | Zegar SPI |
 | **Ekran** | `PIN_MOSI` | PB3 | D11 | SPI Data (SDA) |
