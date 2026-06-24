@@ -60,7 +60,7 @@ Czysty `make` skompiluje `main.c`.
 | 4 | Ogniwo Samsung INR18650 3400 mAh Li-Ion | 1 | Zasilanie urządzenia |
 | 5 | Moduł zasilania USB-C do ogniwa 18650 (5 V) | 1 | Ładowanie i przetwornica 5 V |
 | 6 | Przycisk Tact Switch 12 mm | 6 | Przyciski sterujące |
-| 7 | Rezystor 10 kΩ | 5 | Rezystory do obniżenia poziomu logicznego |
+| 7 | Rezystor 3,7kΩ | 5 | Rezystory do obniżenia poziomu logicznego |
 | 8 | Obudowa drukowana w technologii 3D | 1 | - |
 | 9 | Przełącznik dwupozycyjny przesuwny | 1 | Włącznik|
 >*Wyświetlacz ma wbudowane rezystory, ale są za słabe.
