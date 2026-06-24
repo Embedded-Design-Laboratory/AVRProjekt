@@ -1,5 +1,7 @@
 # Konsola
 EIT-EP-2024
+![Front](assets/konsola_front.jpg)
+![Rear](assets/konsola_rear.jpg)
 ## Opis
 Projekt przedstawia przenośną konsolę do gier opartą o mikrokontroler ATmega328P.
 Urządzenie wyposażone jest w kolorowy wyświetlacz TFT LCD 1.8" oraz sześć przycisków sterujących.
