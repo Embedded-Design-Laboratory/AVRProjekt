@@ -55,11 +55,12 @@ Czysty `make` skompiluje `main.c`.
 | Lp. | Element | Ilość | Uwagi |
 |:---:|---------|:-----:|-------|
 | 1 | Arduino Nano | 1 | Mikrokontroler sterujący konsolą |
-| 1 | LCD TFT 1.8" SPI ST7735S| 1 | Wyświetlacz |
+| 1 | LCD TFT 1.8" SPI ST7735S| 1 | Wyświetlacz* |
 | 3 | Płytka uniwersalna 70 × 90 mm | 1 | Płytka do montażu elementów |
 | 4 | Ogniwo Samsung INR18650 3400 mAh Li-Ion | 1 | Zasilanie urządzenia |
 | 5 | Moduł zasilania USB-C do ogniwa 18650 (5 V) | 1 | Ładowanie i przetwornica 5 V |
 | 6 | Przycisk Tact Switch 12 mm | 6 | Przyciski sterujące |
 | 7 | Rezystor 10 kΩ | 5 | Rezystory do obniżenia poziomu logicznego |
 | 8 | Obudowa drukowana w technologii 3D | 1 | - |
->Wyświetlacz ma wbudowane rezystory, ale są za słabe.
+| 9 | Przełącznik dwupozycyjny przesuwny | 1 | Włącznik|
+>*Wyświetlacz ma wbudowane rezystory, ale są za słabe.
