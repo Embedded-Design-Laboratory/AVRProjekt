@@ -1,3 +1,6 @@
 *.elf
 *.hex
 *.o
+*.jpg
+*.stl
+*.step
